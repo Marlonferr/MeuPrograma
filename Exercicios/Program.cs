@@ -1,8 +1,9 @@
-﻿
+﻿using System;
+
 class Programa
 {
-    public static void Main(string[] args)
+    static void Main()
     {
-       Hipotenusa.Executar();
+        codigoerro.Executar();
     }
 }
